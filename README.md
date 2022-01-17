@@ -7,9 +7,7 @@ Instructions:
 
 - Install the playsound module from the terminal with command "pip install playsound".
 
-- Download the main file, "name_song.py"
-
-- The sound files are located in "zapsplat.zip". Download the zip file and unzip in the same directory where you will keep "name_song.py". Now, you should have a folder "/zapsplat" in the same directory as "name_song.py".
+- The main file is "name_song.py". The sound files are located in "/zapsplat" folder. Download the zip file and unzip. Please keep "name_song.py" and "/zapsplat" in the same directory so the program functions correctly.
 
 - This program runs from the terminal. Type "chmod +x name_song.py" to make it executable.
 
