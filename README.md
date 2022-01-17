@@ -1,7 +1,7 @@
 # virtual_instrument
 Project for QVault Hackathon which plays sounds based on the letters of a user's name
 
-I created a virtual instrument using Python and the Playsound module. I downloaded a free sound package from Zapsplat.com to use as my sounds for this instrument,
+I created a virtual instrument using Python and the Playsound module. I downloaded a free sound package from Zapsplat.com to use as my sounds for this instrument.
 
 Instructions:
 
