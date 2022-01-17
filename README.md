@@ -11,6 +11,6 @@ Instructions:
 
 - This program runs from the terminal. Type "chmod +x name_song.py" to make it executable.
 
-- Run the program with the command "./namesong.py"
+- Run the program with the command "./name_song.py"
 
 - The program will ask the user for their name and play a song according to user input.
